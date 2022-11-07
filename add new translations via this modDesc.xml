@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="71">
+    <title>
+        <de>Manueller Scheibenwischer</de>
+        <en>Manual Wipers</en>
+        <fr>Essuie-Glaces Manuels</fr>
+    </title>
+    <description>
+        <de>
+<![CDATA[Dieses Skript ermöglicht es, die Scheibenwischer jederzeit und wetterunabhängig manuell zu aktivieren oder zu deaktivieren.
+
+Tastenkombination: "Strg + P"
+
+Vollständige lokaler Mutliplayer und Dedicated Server Unterstützung.
+
+Support: https://github.com/Frvetz/FS22_ManualWipers oder E-Mail: ManualWipers@web.de
+    ]]>
+	</de>
+	<en>
+<![CDATA[This script makes it possible to manually activate or deactivate the wipers at any time, regardless of the weather.
+
+Hotkey: "Ctrl + P"
+
+Full local multiplayer and dedicated server compatibility.
+
+Support: https://github.com/Frvetz/FS22_ManualWipers or e-mail: ManualWipers@web.de
+    ]]>	
+	</en>	
+	<fr>
+<![CDATA[Ce script permet d'activer ou de désactiver manuellement les essuie-glaces à tout moment, quel que soit le temps.
+
+Touche de raccourci : "Ctrl + P"
+
+Compatibilité complète avec le multijoueur local et le serveur dédié.
+
+Support : https://github.com/Frvetz/FS22_ManualWipers ou par courriel : ManualWipers@web.de
+    ]]>
+	</fr>
+    </description>
+    <author>frvetz</author>
+    <version>1.0.0.0</version>
+    <iconFilename>modIcon.dds</iconFilename>
+    <multiplayer supported="true"/>
+    <extraSourceFiles>
+		<sourceFile filename="registerManualWipers.lua" />
+    </extraSourceFiles>
+	
+	<actions>
+		<action name="TOGGLE_WIPER"/>
+	</actions>
+
+	<inputBinding>
+		<actionBinding action="TOGGLE_WIPER">
+			<binding device="KB_MOUSE_DEFAULT" input="KEY_lctrl KEY_p"/>
+		</actionBinding>
+	</inputBinding>
+	
+	<l10n>
+        <text name="input_TOGGLE_WIPER">
+			<de>Scheibenwischer An/Aus</de>
+			<en>Wipers On/Off</en>
+			<fr>Essuie-glace marche/arrêt</fr>
+		</text>
+	</l10n>
+</modDesc>
