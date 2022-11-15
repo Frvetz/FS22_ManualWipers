@@ -6,7 +6,7 @@ This script makes it possible to manually activate or deactivate the wipers at a
 
 Hotkey: "Ctrl + P"
 
-      - If you have any questions, requests or problems, please feel free to contact the following email: SlipDestroysFields@web.de
+   - If you have any questions, requests or problems, please feel free to contact the following email: SlipDestroysFields@web.de
 
 Have fun!
 
