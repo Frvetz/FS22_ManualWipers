@@ -1,12 +1,12 @@
 # ManualWipers
 
+- If you have any questions, requests or problems, please feel free to contact the following email: SlipDestroysFields@web.de
 - Full local multiplayer and dedicated server support
 
 This script makes it possible to manually activate or deactivate the wipers at any time, regardless of the weather.
 
 Hotkey: "Ctrl + P"
 
-   - If you have any questions, requests or problems, please feel free to contact the following email: SlipDestroysFields@web.de
 
 Have fun!
 
