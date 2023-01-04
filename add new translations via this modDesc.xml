@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="no" ?>
-<modDesc descVersion="71">
+<modDesc descVersion="72">
     <title>
         <de>Manueller Scheibenwischer</de>
         <en>Manual Wipers</en>
@@ -13,7 +13,7 @@ Tastenkombination: "Strg + P"
 
 Vollständige lokaler Mutliplayer und Dedicated Server Unterstützung.
 
-Support: https://github.com/Frvetz/FS22_ManualWipers oder E-Mail: ManualWipers@web.de
+Support und neuste Updates: https://github.com/Frvetz/FS22_ManualWipers
     ]]>
 	</de>
 	<en>
@@ -23,7 +23,7 @@ Hotkey: "Ctrl + P"
 
 Full local multiplayer and dedicated server compatibility.
 
-Support: https://github.com/Frvetz/FS22_ManualWipers or e-mail: ManualWipers@web.de
+Support and latest updates: https://github.com/Frvetz/FS22_ManualWipers
     ]]>	
 	</en>	
 	<fr>
@@ -33,7 +33,7 @@ Touche de raccourci : "Ctrl + P"
 
 Compatibilité complète avec le multijoueur local et le serveur dédié.
 
-Support : https://github.com/Frvetz/FS22_ManualWipers ou par courriel : ManualWipers@web.de
+Support et les dernières mises à jour : https://github.com/Frvetz/FS22_ManualWipers
     ]]>
 	</fr>
     </description>
