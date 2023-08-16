@@ -15,11 +15,13 @@ Level 3: 0 seconds interval
 
 Changelog Version 1.0.0.1:
 - 3 levels with different intervals added
+
 '
 Level 1: 2.0 seconds interval
 Level 2: 0.6 seconds interval
 Level 3: 0 seconds interval
 '
+
 - Description adapted
 
 
