@@ -10,7 +10,9 @@ Hotkey: "Ctrl + P"
 - 3 levels with different intervals
 
 Level 1: 2.0 seconds interval
+
 Level 2: 0.6 seconds interval
+
 Level 3: 0 seconds interval
 
 Changelog Version 1.0.0.1:
@@ -18,7 +20,9 @@ Changelog Version 1.0.0.1:
 
 '
 Level 1: 2.0 seconds interval
+
 Level 2: 0.6 seconds interval
+
 Level 3: 0 seconds interval
 '
 
