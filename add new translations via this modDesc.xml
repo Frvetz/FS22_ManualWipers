@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="no" ?>
-<modDesc descVersion="72">
+<modDesc descVersion="77">
     <title>
         <de>Manueller Scheibenwischer</de>
         <en>Manual Wipers</en>
@@ -7,39 +7,85 @@
     </title>
     <description>
         <de>
-<![CDATA[Dieses Skript ermöglicht es, die Scheibenwischer jederzeit und wetterunabhängig manuell zu aktivieren oder zu deaktivieren.
+<![CDATA[Dieses Skript ermöglicht es, die Scheibenwischer jederzeit und wetterunabhängig manuell zu steuern.
 
 Tastenkombination: "Strg + P"
+
+- 3 Stufen mit unterschiedlichen Intervallen
+
+Stufe 1: 2.0 Sekunden Intervall
+Stufe 2: 0.6 Sekunden Intervall
+Stufe 3: 0 Sekunden Intervall
+
 
 Vollständige lokaler Mutliplayer und Dedicated Server Unterstützung.
 
 Support und neuste Updates: https://github.com/Frvetz/FS22_ManualWipers
+
+Changelog Version 1.0.0.1:
+- 3 Stufen mit unterschiedlichen Intervallen hinzugefügt
+'
+Stufe 1: 2.0 Sekunden Intervall
+Stufe 2: 0.6 Sekunden Intervall
+Stufe 3: 0 Sekunden Intervall
+'
+- Beschreibung angepasst
     ]]>
 	</de>
 	<en>
-<![CDATA[This script makes it possible to manually activate or deactivate the wipers at any time, regardless of the weather.
+<![CDATA[This script makes it possible to manually control the wipers at any time, regardless of the weather.
 
 Hotkey: "Ctrl + P"
+
+- 3 levels with different intervals
+
+Level 1: 2.0 seconds interval
+Level 2: 0.6 seconds interval
+Level 3: 0 seconds interval
 
 Full local multiplayer and dedicated server compatibility.
 
 Support and latest updates: https://github.com/Frvetz/FS22_ManualWipers
+
+Changelog Version 1.0.0.1:
+- 3 levels with different intervals added
+'
+Level 1: 2.0 seconds interval
+Level 2: 0.6 seconds interval
+Level 3: 0 seconds interval
+'
+- Description adapted
     ]]>	
 	</en>	
 	<fr>
-<![CDATA[Ce script permet d'activer ou de désactiver manuellement les essuie-glaces à tout moment, quel que soit le temps.
+<![CDATA[Ce script permet de contrôler manuellement les essuie-glaces à tout moment, quelles que soient les conditions météorologiques.
 
-Touche de raccourci : "Ctrl + P"
+Raccourci clavier : "Ctrl + P
+
+- 3 niveaux avec des intervalles différents
+
+Niveau 1 : intervalle de 2,0 secondes
+Niveau 2 : intervalle de 0,6 seconde
+Niveau 3 : intervalle de 0 seconde
 
 Compatibilité complète avec le multijoueur local et le serveur dédié.
 
 Support et les dernières mises à jour : https://github.com/Frvetz/FS22_ManualWipers
+
+Changelog Version 1.0.0.1 :
+- 3 niveaux avec différents intervalles ajoutés
+'
+Niveau 1 : intervalle de 2,0 secondes
+Niveau 2 : intervalle de 0,6 seconde
+Niveau 3 : intervalle de 0 seconde
+'
+- Description adaptée
     ]]>
 	</fr>
     </description>
     <author>frvetz</author>
-    <version>1.0.0.0</version>
-    <iconFilename>modIcon.dds</iconFilename>
+    <version>1.0.0.1</version>
+    <iconFilename>icon_ManualWipers.dds</iconFilename>
     <multiplayer supported="true"/>
     <extraSourceFiles>
 		<sourceFile filename="registerManualWipers.lua" />
