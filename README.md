@@ -7,23 +7,23 @@ This script makes it possible to manually control the wipers at any time, regard
 
 Hotkey: "Ctrl + P"
 
-- 3 levels with different intervals
+- 3 stages with different intervals
 
-Level 1: 2.0 seconds interval
+Stage 1: 2.0 seconds interval
 
-Level 2: 0.6 seconds interval
+Stage 2: 0.6 seconds interval
 
-Level 3: 0 seconds interval
+Stage 3: 0 seconds interval
 
 Changelog Version 1.0.0.1:
-- 3 levels with different intervals added
+- 3 stages with different intervals added
 
 '
-Level 1: 2.0 seconds interval
+Stage 1: 2.0 seconds interval
 
-Level 2: 0.6 seconds interval
+Stage 2: 0.6 seconds interval
 
-Level 3: 0 seconds interval
+Stage 3: 0 seconds interval
 '
 
 - Description adapted

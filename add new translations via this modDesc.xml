@@ -37,22 +37,22 @@ Stufe 3: 0 Sekunden Intervall
 
 Hotkey: "Ctrl + P"
 
-- 3 levels with different intervals
+- 3 stages with different intervals
 
-Level 1: 2.0 seconds interval
-Level 2: 0.6 seconds interval
-Level 3: 0 seconds interval
+Stage 1: 2.0 seconds interval
+Stage 2: 0.6 seconds interval
+Stage 3: 0 seconds interval
 
 Full local multiplayer and dedicated server compatibility.
 
 Support and latest updates: https://github.com/Frvetz/FS22_ManualWipers
 
 Changelog Version 1.0.0.1:
-- 3 levels with different intervals added
+- 3 stages with different intervals added
 '
-Level 1: 2.0 seconds interval
-Level 2: 0.6 seconds interval
-Level 3: 0 seconds interval
+Stage 1: 2.0 seconds interval
+Stage 2: 0.6 seconds interval
+Stage 3: 0 seconds interval
 '
 - Description adapted
     ]]>	
@@ -62,22 +62,22 @@ Level 3: 0 seconds interval
 
 Raccourci clavier : "Ctrl + P
 
-- 3 niveaux avec des intervalles différents
+- 3 étapes avec différents intervalles ajoutés
 
-Niveau 1 : intervalle de 2,0 secondes
-Niveau 2 : intervalle de 0,6 seconde
-Niveau 3 : intervalle de 0 seconde
+Étape 1 : intervalle de 2,0 secondes
+Étape 2 : intervalle de 0,6 seconde
+Étape 3 : intervalle de 0 seconde
 
 Compatibilité complète avec le multijoueur local et le serveur dédié.
 
 Support et les dernières mises à jour : https://github.com/Frvetz/FS22_ManualWipers
 
 Changelog Version 1.0.0.1 :
-- 3 niveaux avec différents intervalles ajoutés
+- 3 étapes avec différents intervalles ajoutés
 '
-Niveau 1 : intervalle de 2,0 secondes
-Niveau 2 : intervalle de 0,6 seconde
-Niveau 3 : intervalle de 0 seconde
+Étape 1 : intervalle de 2,0 secondes
+Étape 2 : intervalle de 0,6 seconde
+Étape 3 : intervalle de 0 seconde
 '
 - Description adaptée
     ]]>
